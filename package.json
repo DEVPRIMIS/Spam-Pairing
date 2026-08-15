@@ -1,0 +1,20 @@
+{
+  "name": "Spam Pairing",
+  "version": "1.0.0",
+  "description": "WhatsApp Pairing Code Mass Spammer (by DsPrimis)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "npm:xzcbailz",
+    "pino": "^9.5.0",
+    "pino-pretty": "^11.2.2",
+    "chalk": "^4.1.2",
+    "figlet": "^1.7.0"
+    "axios": "^1.7.7"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
