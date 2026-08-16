@@ -12,28 +12,28 @@
 
 <p align="center">
   <!-- STAR BUTTON -->
-  <a href="https://github.com/DEVPRIMIS/Spam-Pairing">
+  <a href="https://github.com/XANDROPRIME/Spam-Pairing">
     <img src="https://img.shields.io/badge/⭐%20GIVE%20STAR-Click%20Here-F9D71C?style=for-the-badge&logo=github" alt="Give Star">
   </a>
   
   &nbsp;&nbsp;
   
   <!-- FORK BUTTON -->
-  <a href="https://github.com/DEVPRIMIS/Spam-Pairing/fork">
+  <a href="https://github.com/XANDROPRIME/Spam-Pairing/fork">
     <img src="https://img.shields.io/badge/FORK%20REPO-Click%20Here-007ACC?style=for-the-badge&logo=github" alt="Fork Repo">
   </a>
   
   &nbsp;&nbsp;
   
   <!-- DOWNLOAD BUTTON -->
-  <a href="https://github.com/DEVPRIMIS/Spam-Pairing/archive/refs/heads/main.zip">
+  <a href="https://github.com/XANDROPRIME/Spam-Pairing/archive/refs/heads/main.zip">
     <img src="https://img.shields.io/badge/⬇️%20DOWNLOAD%20ZIP-Click%20Here-2d3436?style=for-the-badge&logo=github" alt="Download ZIP">
   </a>
   
   &nbsp;&nbsp;
   
   <!-- FOLLOW BUTTON -->
-  <a href="https://github.com/DEVPRIMIS">
+  <a href="https://github.com/XANDROPRIME">
     <img src="https://img.shields.io/badge/👤%20FOLLOW%20ME-Click%20Here-6c5ce7?style=for-the-badge&logo=github" alt="Follow Me">
   </a>
 </p>
