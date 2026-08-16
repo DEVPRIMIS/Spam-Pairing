@@ -53,3 +53,22 @@
 | **Spam Reports** | Automatically report target |
 | **Real-time Logs** | Live progress in console |
 | **Force Mode** | Ignore all checks |
+
+---
+
+## 📥 Installation
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/DEVPRIMIS/Spam-Pairing.git
+cd Spam-Pairing
+
+# 2. Install dependencies
+npm install
+
+# 3. Create proxies.txt (optional)
+nano proxies.txt
+
+# 4. Run
+npm start
+```
